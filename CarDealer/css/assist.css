@@ -1,0 +1,27 @@
+
+@import "master.css";
+
+.container {
+    width: max-content !important;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: #e6e6e6;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 300;
+    margin-top: 0;
+}
